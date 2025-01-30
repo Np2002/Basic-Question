@@ -79,4 +79,4 @@ Here are some real-world Excel challenges I solved:
 If you have any suggestions or additional Excel challenges to try, feel free to open an issue or submit a pull request.
 
 ## Connect With Me
-I'm actively learning and open to feedback! Let's connect on **[LinkedIn](https://www.linkedin.com/nidhi-kachhi)** and grow together. 🚀
+I'm actively learning and open to feedback! Let's connect on **[LinkedIn](https://www.linkedin.com/in/nidhi-kachhi)** and grow together. 🚀
